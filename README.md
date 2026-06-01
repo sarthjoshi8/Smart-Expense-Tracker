@@ -235,7 +235,7 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Sarth Joshi**
+**Sarth Hemant Joshi**
 
 B.Tech Computer Science Engineering
 
