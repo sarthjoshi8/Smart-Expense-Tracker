@@ -254,7 +254,7 @@ This project demonstrates:
 
 B.Tech Computer Science Engineering
 
-GitHub: https://github.com/your-username
+GitHub: [https://github.com/your-username](https://github.com/sarthjoshi8)
 
 ---
 
