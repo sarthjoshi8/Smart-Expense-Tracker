@@ -1,0 +1,11 @@
+const express = require('express');
+const router = express.Router();
+const auth = require('../middleware/auth');
+const ctrl = require('../controllers/expenseController');
+router.use(auth);
+router.get('/', ctrl.getExpenses);
+router.post('/', ctrl.addExpense);
+router.put('/:id', ctrl.updateExpense);
+router.delete('/:id', ctrl.deleteExpense);
+router.get('/analytics/summary', ctrl.getAnalytics);
+module.exports = router;
