@@ -203,21 +203,6 @@ const ExpenseSchema = new mongoose.Schema({
   }
 });
 ```
-
----
-
-## 📸 Screenshots
-
-Add your project screenshots here.
-
-### Dashboard
-
-![Dashboard Screenshot](screenshots/dashboard.png)
-
-### Add Expense Page
-
-![Add Expense Screenshot](screenshots/add-expense.png)
-
 ---
 
 ## 🎯 Future Improvements
@@ -254,7 +239,6 @@ This project demonstrates:
 
 B.Tech Computer Science Engineering
 
-GitHub: [https://github.com/your-username](https://github.com/sarthjoshi8)
 
 ---
 
